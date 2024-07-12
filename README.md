@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am Khushwant Sanwalot, an AI/ML engineer passion
 I am always open to discussing new projects, research ideas, and collaboration opportunities. Feel free to reach out to me through any of the following channels:
 
 - **Email:** khushwantsanwalot2004@outlook.com
-- **LinkedIn:** [Khushwant Sanwalot]([https://www.linkedin.com/in/khushwantsanwalot/](https://www.linkedin.com/in/khushwant-sanwalot/))
-- **Twitter:** [@khushwantsan]([https://twitter.com/khushwantsan](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09))
+- **LinkedIn:** [Khushwant Sanwalot](https://www.linkedin.com/in/khushwant-sanwalot/)
+- **Twitter:** [@khushwantsan](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
 
 Thank you for visiting my profile! Let's create something amazing together.
