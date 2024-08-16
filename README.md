@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am Khushwant Sanwalot, an AI/ML engineer passion
 ## About Me
 
 - **🔬 Research Focus:** Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing
-- **💻 Tech Stack:** Python, PyTorch, FastAPI, React (tsx), C++
+- **💻 Tech Stack:** Python, PyTorch, FastAPI, C++, Java, React js, Next js.
 - **🚀 Current Projects:**
   - Developing a deep learning model training app using PyTorch and FastAPI
   - Creating a custom data processing engine for video/image annotation
