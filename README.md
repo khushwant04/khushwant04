@@ -21,6 +21,6 @@ I am always open to discussing new projects, research ideas, and collaboration o
 - **Email:** khushwantsanwalot2004@outlook.com
 - **LinkedIn:** [Khushwant Sanwalot](https://www.linkedin.com/in/khushwant-sanwalot/)
 - **Twitter:** [@khushwant04](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
-- **Organization:** [Hexel-AI](https://github.com/hexel-ai)
+- **Organization:** [Hexel-Studio](https://github.com/hexel-studio)
 
 Thank you for visiting my profile! Let's create something amazing together.
