@@ -1,6 +1,6 @@
 # Khushwant Sanwalot
 
-**AI/ML Engineer | Researcher | Open Source Advocate**
+**AI/ML Engineer | Open Source Advocate**
 
 Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel Studio](https://github.com/hexelstudio), where I architect intelligent systems that scale. My focus lies at the intersection of Agentic AI, model optimization, and real-world deployment. I build, break, and improve systems that push the boundaries of what intelligent agents can do autonomously.
 
@@ -15,12 +15,11 @@ Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel St
   Python • PyTorch • FastAPI • Next.js • LangChain • Docker • Kubernetes • GCP • AWS • Azure
   *(Cloud is just compute. It’s all the same under the hood.)*
 
-* **Current Work:**
+---
 
-  * 🚀 Building a PyTorch + FastAPI training interface for rapid model iteration
-  * 🧠 Engineering generative agents for autonomous data annotation pipelines
-  * 🎥 Creating a modular video/image annotation and data curation engine
-  * 🤖 Developing LangChain + RAG-based agents with real-time internet access & memory
+## ⚡ What Drives Me
+
+I’m obsessed with making AI more autonomous, useful, and efficient. Whether it’s through optimizing low-level compute with Triton or designing high-level reasoning in agentic systems, I aim to build frameworks that reduce friction between research and deployment. I believe the next leap in AI won’t come from bigger models—but from smarter coordination, memory, and action.
 
 ---
 
