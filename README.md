@@ -1,26 +1,53 @@
+Here’s an updated and sharper version of your GitHub profile README, refined for clarity, technical depth, and professional tone—without losing the enthusiasm or forward-looking attitude:
+
+---
+
 # Khushwant Sanwalot
 
-**AI/ML Engineer | Open Source Enthusiast | Researcher**
+**AI/ML Engineer | Researcher | Open Source Advocate**
 
-Welcome to my GitHub profile! I am Khushwant Sanwalot, an AI/ML engineer passionate about leveraging machine learning and artificial intelligence to solve real-world problems. I thrive on open-source contributions and am dedicated to advancing the field through collaborative research and innovative projects.
+Welcome to my GitHub! I’m Khushwant Sanwalot — an AI/ML engineer and founder of Hexel Studio. My work focuses on building intelligent systems that solve real-world problems through applied machine learning, deep learning, and scalable engineering. I'm deeply invested in open-source innovation and collaborative research that pushes boundaries.
 
-## About Me
+---
 
-- **🔬 Research Focus:** Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing
-- **💻 Tech Stack:** Python, PyTorch, FastAPI, C++, Java, React js, Next js.
-- **🚀 Current Projects:**
-  - Developing a deep learning model training app using PyTorch and FastAPI
-  - Creating a custom data processing engine for video/image annotation
-  - Building a generative AI tool for automatic data annotation
-  - Developing a chatbot using LangChain and RAG agents for real-time internet access
-  
-## Get in Touch
+## 🔍 About Me
 
-I am always open to discussing new projects, research ideas, and collaboration opportunities. Feel free to reach out to me through any of the following channels:
+* **Research Interests:**
+  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Multimodal Systems
 
-- **Email:** khushwantsanwalot2004@outlook.com
-- **LinkedIn:** [Khushwant Sanwalot](https://www.linkedin.com/in/khushwant-sanwalot/)
-- **Twitter:** [@khushwant04](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
-- **Organization:** [Hexel Studio](https://github.com/hexelstudio)
+* **Core Tech Stack:**
+  Python, PyTorch, FastAPI, React.js, Next.js, LangChain, Docker, PostgreSQL
 
-Thank you for visiting my profile! Let's create something amazing together.
+* **Current Focus Areas:**
+
+  * 🚀 Developing a deep learning model training interface with PyTorch + FastAPI
+  * 🧠 Architecting a generative AI engine for automatic data annotation
+  * 🎥 Designing a custom pipeline for video/image annotation and dataset curation
+  * 🤖 Building a chatbot using LangChain and Retrieval-Augmented Generation (RAG) with real-time internet integration
+
+---
+
+## 🧩 Projects at [Hexel Studio](https://github.com/hexelstudio)
+
+At Hexel Studio, I lead the development of advanced AI tools and infrastructure with a focus on:
+
+* End-to-end ML lifecycle automation
+* Open-source contributions in data-centric AI and LLMOps
+* Developer-friendly frameworks for research and deployment
+
+---
+
+## 🤝 Connect With Me
+
+I’m always open to research discussions, project collaborations, and idea exchanges. Let’s build the future of AI together.
+
+* 📧 Email: [khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/)
+* 🐦 [Twitter / X](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
+* 🏢 [Hexel Studio](https://github.com/hexelstudio)
+
+---
+
+Thanks for dropping by. Let’s build something impactful.
+
+---
