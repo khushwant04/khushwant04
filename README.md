@@ -1,7 +1,3 @@
-Here’s an updated and sharper version of your GitHub profile README, refined for clarity, technical depth, and professional tone—without losing the enthusiasm or forward-looking attitude:
-
----
-
 # Khushwant Sanwalot
 
 **AI/ML Engineer | Researcher | Open Source Advocate**
