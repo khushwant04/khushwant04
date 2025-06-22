@@ -1,49 +1,50 @@
 # Khushwant Sanwalot
 
-**AI/ML Engineer | Researcher | Open Source Advocate**
+**AI/ML Engineer | Agentic AI Researcher | Open Source Advocate**
 
-Welcome to my GitHub! I’m Khushwant Sanwalot — an AI/ML engineer and founder of Hexel Studio. My work focuses on building intelligent systems that solve real-world problems through applied machine learning, deep learning, and scalable engineering. I'm deeply invested in open-source innovation and collaborative research that pushes boundaries.
+Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel Studio](https://github.com/hexelstudio), where I architect intelligent systems that scale. My focus lies at the intersection of Agentic AI, model optimization, and real-world deployment. I build, break, and improve systems that push the boundaries of what intelligent agents can do autonomously.
 
 ---
 
-## 🔍 About Me
+## 🔬 About Me
 
-* **Research Interests:**
-  Agentic AI, Machine Learning, Deep Learning, Computer Vision, Multimodal Systems, Optimizing Neural Nets (CUDA/Triton)
+* **Research Focus:**
+  Agentic AI • Multimodal Systems • Deep Learning • Neural Net Optimization (CUDA/Triton) • Computer Vision • LLMOps
 
 * **Core Tech Stack:**
-  Python, PyTorch, FastAPI, Next.js, LangChain, Docker, PostgreSQL, K8s, GCP, AWS, Azure (all are same at the core)
+  Python • PyTorch • FastAPI • Next.js • LangChain • Docker • Kubernetes • GCP • AWS • Azure
+  *(Cloud is just compute. It’s all the same under the hood.)*
 
-* **Current Focus Areas:**
+* **Current Work:**
 
-  * 🚀 Developing a deep learning model training interface with PyTorch + FastAPI
-  * 🧠 Architecting a generative AI engine for automatic data annotation
-  * 🎥 Designing a custom pipeline for video/image annotation and dataset curation
-  * 🤖 Building a chatbot using LangChain and Retrieval-Augmented Generation (RAG) with real-time internet integration
-
----
-
-## 🧩 Projects at [Hexel Studio](https://github.com/hexelstudio)
-
-At Hexel Studio, I lead the development of advanced AI tools and infrastructure with a focus on:
-
-* End-to-end ML lifecycle automation
-* Open-source contributions in data-centric AI and LLMOps
-* Developer-friendly frameworks for research and deployment
+  * 🚀 Building a PyTorch + FastAPI training interface for rapid model iteration
+  * 🧠 Engineering generative agents for autonomous data annotation pipelines
+  * 🎥 Creating a modular video/image annotation and data curation engine
+  * 🤖 Developing LangChain + RAG-based agents with real-time internet access & memory
 
 ---
 
-## 🤝 Connect With Me
+## 🧩 Projects @ [Hexel Studio](https://github.com/hexelstudio)
 
-I’m always open to research discussions, project collaborations, and idea exchanges. Let’s build the future of AI together.
+Leading a small, sharp team focused on:
 
-* 📧 Email: [khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
+* Full-stack ML automation — from data pipelines to deployable inference
+* Research-grade tooling for open-source Agentic AI systems
+* Practical LLM infrastructure built for control, not just chat
+
+---
+
+## 💬 Let’s Connect
+
+Always open to serious collabs — whether it's building better models, smarter systems, or new research directions.
+
+* 📧 [khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/)
 * 🐦 [Twitter / X](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
 * 🏢 [Hexel Studio](https://github.com/hexelstudio)
 
 ---
 
-Thanks for dropping by. Let’s build something impactful.
+Thanks for visiting. Let’s build what’s next.
 
 ---
