@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m Khushwant Sanwalot — an AI/ML engineer and founder
 ## 🔍 About Me
 
 * **Research Interests:**
-  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Multimodal Systems
+  Machine Learning, Deep Learning, Computer Vision, Genralized Agentic AI, Multimodal Systems
 
 * **Core Tech Stack:**
   Python, PyTorch, FastAPI, Next.js, LangChain, Docker, PostgreSQL, K8s, GCP, AWS, Azure
