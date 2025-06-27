@@ -45,5 +45,3 @@ Always open to serious collabs — whether it's building better models, smarter 
 ---
 
 Thanks for visiting. Let’s build what’s next.
-
----
