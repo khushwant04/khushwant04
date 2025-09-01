@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | Agentic AI | Open Source Advocate**
 
-Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel Studio](https://github.com/hexelstudio), where I architect intelligent systems that scale. My focus lies at the intersection of Agentic AI, model optimization, and real-world deployment. I build, break, and improve systems that push the boundaries of what intelligent agents can do autonomously.
+Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel Studio](https://hexelstudio.com), where I architect intelligent systems that scale. My focus lies at the intersection of Agentic AI, model optimization, and real-world deployment. I build, break, and improve systems that push the boundaries of what intelligent agents can do autonomously.
 
 ---
 
