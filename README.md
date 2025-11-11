@@ -1,47 +1,39 @@
 # Khushwant Sanwalot
 
-**AI/ML Engineer | Agentic AI | Open Source Advocate**
+**AI Engineer | Systems Architect | Founder at [Hexel Studio](https://hexelstudio.com)**
+**Focus:** Agentic AI · LLM Orchestration · RAG · Multi-Agent Systems
 
-Welcome — I’m Khushwant Sanwalot, an AI/ML engineer and founder of [Hexel Studio](https://hexelstudio.com), where I architect intelligent systems that scale. My focus lies at the intersection of Agentic AI, model optimization, and real-world deployment. I build, break, and improve systems that push the boundaries of what intelligent agents can do autonomously.
-
----
-
-## 🔬 About Me
-
-* **Research Focus:**
-  Agentic AI • Multimodal Systems • Deep Learning • Neural Net Optimization (CUDA/Triton) • Computer Vision • LLMOps
-
-* **Core Tech Stack:**
-  Python • PyTorch • FastAPI • Next.js • LangChain • Docker • Kubernetes • GCP • AWS • Azure
-  *(Cloud is just compute. It’s all the same under the hood.)*
+I’m an AI/ML engineer and systems architect focused on building **agentic intelligence infrastructure** — scalable systems where AI agents can reason, coordinate, and act autonomously. My work combines **LLM orchestration**, **distributed architecture**, and **systems engineering** to make intelligent agents reliable and production-ready.
 
 ---
 
-## ⚡ What Drives Me
+## Core Engineering Focus
 
-I’m obsessed with making AI more autonomous, useful, and efficient. Whether it’s through optimizing low-level compute with Triton or designing high-level reasoning in agentic systems, I aim to build frameworks that reduce friction between research and deployment. I believe the next leap in AI won’t come from bigger models—but from smarter coordination, memory, and action.
-
----
-
-## 🧩 Projects @ [Hexel Studio](https://github.com/hexelstudio)
-
-Leading a small, sharp team focused on:
-
-* Full-stack ML automation — from data pipelines to deployable inference
-* Research-grade tooling for open-source Agentic AI systems
-* Practical LLM infrastructure built for control, not just chat
+* **Agent Systems:** Orchestration, coordination, and secure multi-agent communication
+* **LLM Infrastructure:** Context management, reasoning layers, and fine-tuned model pipelines
+* **Knowledge Systems:** Retrieval-augmented generation, vector-based memory, and contextual awareness
+* **Systems Engineering:** Async microservices, caching, event-driven architecture, and API reliability
 
 ---
 
-## 💬 Let’s Connect
+## Technical Stack
 
-Always open to serious collabs — whether it's building better models, smarter systems, or new research directions.
-
-* 📧 [khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/)
-* 🐦 [Twitter / X](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
-* 🏢 [Hexel Studio](https://github.com/hexelstudio)
+**Languages:** Python, TypeScript, SQL
+**Frameworks:** FastAPI, LangChain, Next.js
+**Infra & Tools:** Docker, Redis, Kafka, PostgreSQL, Kubernetes
+**AI/ML:** PyTorch, Transformers, OpenAI SDK, Bedrock
 
 ---
 
-Thanks for visiting. Let’s build what’s next.
+## Engineering Philosophy
+
+I approach AI as a **systems problem**, not a model problem. The next leap in intelligence will come from **orchestration, autonomy, and secure system design**, not just larger models. My focus is on building the foundation that makes those systems possible — stable, composable, and intelligent.
+
+---
+
+## Connect
+
+* **Email:** [khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
+* **LinkedIn:** [linkedin.com/in/khushwant-sanwalot](https://www.linkedin.com/in/khushwant-sanwalot/)
+* **Twitter/X:** [x.com/ksanwalot04](https://x.com/ksanwalot04?t=vCed7GN0P1aIoKqx_72H2Q&s=09)
+* **Hexel Studio:** [github.com/hexelstudio](https://github.com/hexelstudio)
