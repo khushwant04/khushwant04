@@ -25,11 +25,11 @@ At **[Hexel Studio](https://hexelstudio.com)**, I lead architecture and backend 
 
 ## Technical Stack
 
-**Languages:** Python, TypeScript, SQL  
-**Frameworks:** FastAPI, LangChain, Next.js  
-**Infrastructure & Tools:** Docker, Redis, Kafka, PostgreSQL, Kubernetes  
-**AI/ML:** PyTorch, Transformers, OpenAI SDK, Bedrock  
-**Cloud:** AWS, GCP, Cloud-Native Architectures  
+- **Languages:** Python, TypeScript, SQL  
+- **Frameworks:** FastAPI, LangChain, Next.js  
+- **Infrastructure & Tools:** Docker, Redis, Kafka, PostgreSQL, Kubernetes  
+- **AI/ML:** PyTorch, Transformers, OpenAI SDK, Bedrock  
+- **Cloud:** AWS, GCP, Cloud-Native Architectures  
 
 ---
 
