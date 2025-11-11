@@ -18,10 +18,10 @@ I’m an AI/ML engineer and systems architect focused on building **agentic inte
 
 ## Technical Stack
 
-**Languages:** Python, TypeScript, SQL
-**Frameworks:** FastAPI, LangChain, Next.js
-**Infra & Tools:** Docker, Redis, Kafka, PostgreSQL, Kubernetes
-**AI/ML:** PyTorch, Transformers, OpenAI SDK, Bedrock
+* **Languages:** Python, TypeScript, SQL
+* **Frameworks:** FastAPI, Strands Agents, Next.js
+* **Infra & Tools:** Docker, Redis, Kafka, PostgreSQL, Kubernetes, Mongodb
+* **AI/ML:** PyTorch, Transformers, Bedrock Agent core
 
 ---
 
