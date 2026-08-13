@@ -1,6 +1,6 @@
 # Khushwant Sanwalot
 
-### AI Engineer | Systems Architect | Founder at [Hexel Studio](https://hexelstudio.com)  
+### AI Engineer | Systems Architect | Founder of [Hexel Studio](https://hexelstudio.com)  
 **Specialization:** Agentic AI · LLM Orchestration · RAG · Multi-Agent Systems  
 
 ---
