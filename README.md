@@ -1,113 +1,90 @@
 # Khushwant Sanwalot
 
-**AI Engineer · Systems Architect · Founder of [Hexel Studio](https://hexelstudio.com)**
+**AI Engineer · Systems Architect**
 
-*Agentic systems — LLM infrastructure — distributed execution*
+I build production infrastructure for agentic AI: systems that reason, call tools, coordinate, and execute reliably.
 
-[Website](https://hexelstudio.com) · [LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/) · [X](https://x.com/ksanwalot04) · [Hexel Studio on GitHub](https://github.com/hexelstudio) · [Email](mailto:khushwantsanwalot2004@outlook.com)
-
----
-
-## Abstract
-
-I build systems that let AI **reason, use tools, coordinate, and execute reliably**. My work sits where large language models, agent orchestration, and production distributed systems meet.
-
-> *A useful agent is not a chatbot with tools attached.*
-> *It is a distributed software system with intelligence inside the control loop.*
-
-Model capability matters. But most of the hard problems are in the system around the model: keeping context, making decisions, recovering from failure, staying within permissions, and proving the work is actually done.
+[LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/) · [X](https://x.com/ksanwalot04) · [Email](mailto:khushwantsanwalot2004@outlook.com)
 
 ---
 
-## 1. Research Program
+## Engineering Philosophy
 
-The layers I work across, from model to production:
+> An agent is not a chatbot with tools attached.
+> It's a distributed system with a model inside the control loop.
+
+So I treat agents the way I'd treat any production system:
+
+- **State is explicit.** Context and memory are managed, versioned, and inspectable.
+- **Failure is expected.** Every tool call can time out, return garbage, or partially succeed. Retries, idempotency, and rollback are designed in from the start.
+- **Permissions are bounded.** Agents get the minimum access the task needs, enforced by the system rather than by the prompt.
+- **Behavior is observable.** Every decision, tool call, and token is traceable.
+- **Completion is verified.** "The model said it's done" is not a success condition. Evals and checks are.
+
+---
+
+## System Architecture
+
+The stack I design and build across:
 
 ```text
-  Production Systems        reliability · scale
+  Production Systems        reliability · scale · cost
           ▲
-  Distributed Execution     queues · events · async
+  Distributed Execution     queues · events · async workers
           ▲
-  Agent Orchestration       coordination · delegation
+  Agent Orchestration       routing · delegation · coordination
           ▲
-  Tool Use                  actions · side effects
+  Tool Use                  sandboxed execution · side effects
           ▲
-  Planning & Reasoning      decisions · control flow
+  Planning & Reasoning      control flow · decision policies
           ▲
-  Context & Memory          state · knowledge
+  Context & Memory          retrieval · state · long-term memory
           ▲
-  LLMs                      the reasoning core
+  LLMs                      inference · structured outputs
 ```
 
-| Area | Focus |
+---
+
+## What I Work On
+
+| Area | What that means in practice |
 | :--- | :--- |
-| **Agent Infrastructure** | Multi-agent orchestration, tool execution, agent communication, state management, reliable autonomous workflows |
-| **LLM Systems** | Context engineering, structured outputs, prompt pipelines, reasoning workflows, model routing, inference infrastructure |
-| **Knowledge Systems** | RAG, semantic retrieval, vector search, long-term memory, document intelligence |
-| **Distributed AI Infrastructure** | Event-driven architecture, async services, queues, caching, Kubernetes, observability |
+| **Agent Infrastructure** | Multi-agent orchestration, tool execution runtimes, agent-to-agent messaging, state management, durable workflows |
+| **LLM Systems** | Context engineering, structured outputs, prompt pipelines, model routing, inference serving |
+| **Knowledge Systems** | RAG pipelines, semantic retrieval, vector search, long-term memory, document intelligence |
+| **Distributed Infrastructure** | Event-driven services, async processing, queues, caching, Kubernetes, observability |
+| **Agent Security** | Permission models, sandboxing, guardrails, and audit trails for autonomous actions |
 
 ---
 
-## 2. Open Questions
+## Problems I Care About
 
-The questions behind most of my engineering:
-
-1. **Context:** How does a system keep the right context over long horizons?
-2. **Decision:** How does it choose what to do next, and why?
-3. **Recovery:** How does it detect and recover from its own failures?
-4. **Control:** How do we limit what an agent is allowed to do?
-5. **Coordination:** How do multiple agents divide and share work?
-6. **Evaluation:** How do we verify that a task was actually completed?
-7. **Operation:** How do we run all of this reliably at scale?
+1. Keeping context correct and compact over long-running tasks
+2. Making agent decisions deterministic enough to debug
+3. Recovering cleanly from partial failures mid-workflow
+4. Enforcing hard limits on what an agent can touch
+5. Coordinating multiple agents without race conditions or duplicated work
+6. Evaluating whether a task was actually completed
+7. Running all of it at scale without costs or latency blowing up
 
 ---
 
-## 3. Current Work
+## Stack
 
-### [Hexel Studio](https://hexelstudio.com)
-
-An AI company building infrastructure and applications for **reliable agentic systems**. The long-term goal is to make it straightforward for organizations to deploy agents that work securely across real-world workflows.
-
-`Agent Orchestration` · `Enterprise AI` · `AI Infrastructure` · `Tool Use` · `Knowledge Systems` · `Agent Security`
-
----
-
-## 4. Methods & Tooling
-
-| Domain | Tools |
+| Layer | Tools |
 | :--- | :--- |
-| **AI / ML** | PyTorch · Transformers · LLMs · RAG · Vector Search · Agent Systems · LLM Inference |
+| **AI / ML** | PyTorch · Transformers · LLMs · RAG · Vector Search · LLM Inference |
 | **Backend** | Python · TypeScript · FastAPI · PostgreSQL · Redis · Kafka |
-| **Infrastructure** | Docker · Kubernetes · AWS · GCP · Event-Driven Systems |
+| **Infrastructure** | Docker · Kubernetes · AWS · GCP · Event-Driven Architecture |
 | **Frontend** | Next.js · React · TypeScript |
 
 ---
 
-## 5. Keywords
-
-*Agentic AI · LLM Reasoning · Multi-Agent Systems · AI Memory · Retrieval-Augmented Generation · LLM Inference · Distributed AI Systems · AI Security · AI Infrastructure*
-
----
-
-## 6. Education
+## Education
 
 **B.E. Computer Science & Engineering (AI/ML)**
 Visvesvaraya Technological University · 2023 – 2027
 
 ---
 
-## Citation
-
-```bibtex
-@misc{sanwalot2026,
-  author       = {Khushwant Sanwalot},
-  title        = {Agentic Systems and Reliable AI Infrastructure},
-  organization = {Hexel Studio},
-  year         = {2026},
-  url          = {https://hexelstudio.com}
-}
-```
-
----
-
-*Building toward reliable machine intelligence.* — [hexelstudio.com](https://hexelstudio.com)
+*Engineering reliable machine intelligence, one system at a time.*
