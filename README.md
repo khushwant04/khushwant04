@@ -1,159 +1,152 @@
+<div align="center">
+
 # Khushwant Sanwalot
 
-**AI Engineer · Systems Architect · Founder**
+**AI Engineer &nbsp;·&nbsp; Systems Architect &nbsp;·&nbsp; Founder, [Hexel Studio](https://hexelstudio.com)**
 
-Building **agentic AI systems and infrastructure** at [Hexel Studio](https://hexelstudio.com).
+<sub><i>Agentic systems &nbsp;—&nbsp; LLM infrastructure &nbsp;—&nbsp; Distributed execution</i></sub>
 
-I work at the intersection of **LLMs, agent orchestration, distributed systems, and production AI infrastructure**.
+<br>
 
-> **I build systems that let AI reason, use tools, coordinate, and execute reliably.**
+[Website](https://hexelstudio.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/) &nbsp;·&nbsp;
+[X](https://x.com/ksanwalot04) &nbsp;·&nbsp;
+[Hexel Studio on GitHub](https://github.com/hexelstudio) &nbsp;·&nbsp;
+[Email](mailto:khushwantsanwalot2004@outlook.com)
+
+</div>
+
+<br>
 
 ---
 
-## What I Build
+### Abstract
 
-My primary focus is **agentic systems**: moving beyond chat interfaces toward AI systems that can actually perform work.
+I build systems that let AI **reason, use tools, coordinate, and execute reliably**.
+My work sits at the intersection of large language models, agent orchestration,
+and production distributed systems. The working thesis is simple:
+
+> *A useful agent is not a chatbot with tools attached.
+> It is a distributed software system with intelligence inside the control loop.*
+
+Model capability matters, but most of the hard problems live in the system
+around the model: how it keeps context, makes decisions, recovers from failure,
+stays within its permissions, and proves it actually finished the job.
+
+---
+
+### §1 &nbsp; Research Program
+
+The layers I work across, from model to production:
 
 ```text
-LLMs
-  ↓
-Context & Memory
-  ↓
-Planning & Reasoning
-  ↓
-Tool Use
-  ↓
-Agent Orchestration
-  ↓
-Distributed Execution
-  ↓
-Production Systems
+┌──────────────────────────────────────────────┐
+│  Production Systems      reliability · scale │
+├──────────────────────────────────────────────┤
+│  Distributed Execution   queues · events     │
+├──────────────────────────────────────────────┤
+│  Agent Orchestration     coordination        │
+├──────────────────────────────────────────────┤
+│  Tool Use                actions · effects   │
+├──────────────────────────────────────────────┤
+│  Planning & Reasoning    decisions           │
+├──────────────────────────────────────────────┤
+│  Context & Memory        state · knowledge   │
+├──────────────────────────────────────────────┤
+│  LLMs                    the reasoning core  │
+└──────────────────────────────────────────────┘
 ```
 
-I'm particularly interested in:
-
-**Agent Infrastructure**
-Multi-agent orchestration, tool execution, agent communication, state management, and reliable autonomous workflows.
-
-**LLM Systems**
-Context engineering, structured outputs, prompt pipelines, reasoning workflows, model routing, and inference infrastructure.
-
-**Knowledge Systems**
-RAG, semantic retrieval, vector search, long-term memory, document intelligence, and contextual knowledge systems.
-
-**Distributed AI Infrastructure**
-Event-driven systems, async services, queues, caching, Kubernetes, observability, and scalable AI execution.
+| Area | Focus |
+|:--|:--|
+| **Agent Infrastructure** | Multi-agent orchestration, tool execution, inter-agent communication, state management, reliable autonomous workflows |
+| **LLM Systems** | Context engineering, structured outputs, prompt pipelines, reasoning workflows, model routing, inference infrastructure |
+| **Knowledge Systems** | RAG, semantic retrieval, vector search, long-term memory, document intelligence |
+| **Distributed AI Infrastructure** | Event-driven architecture, async services, queues, caching, Kubernetes, observability |
 
 ---
 
-## Currently Building
+### §2 &nbsp; Open Questions
 
-### Hexel Studio
+The questions that drive most of my engineering:
 
-I'm building **Hexel Studio**, an AI company focused on infrastructure and applications for reliable agentic systems.
-
-The long-term direction is to make it easier for organizations to deploy AI agents that can operate securely across real-world workflows.
-
-**Focus areas:**
-
-`Agent Orchestration` · `Enterprise AI` · `AI Infrastructure` · `Tool Use` · `Knowledge Systems` · `Agent Security`
-
-[hexelstudio.com](https://hexelstudio.com)
+1. **Context.** How does a system maintain the right context over long horizons?
+2. **Decision.** How does it choose what to do next, and why?
+3. **Recovery.** How does it detect and recover from its own failures?
+4. **Control.** How do we bound what an agent is allowed to do?
+5. **Coordination.** How do multiple agents divide and share work?
+6. **Evaluation.** How do we verify a task was actually completed?
+7. **Operation.** How do we run all of this reliably, at scale?
 
 ---
 
-## Engineering Stack
+### §3 &nbsp; Current Work
 
-### AI / ML
+#### [Hexel Studio](https://hexelstudio.com)
 
-`PyTorch` `Transformers` `LLMs` `RAG` `Vector Search` `Agent Systems` `LLM Inference`
+An AI company building infrastructure and applications for **reliable agentic systems**.
+The long-term aim: make it straightforward for organizations to deploy agents that
+operate securely across real-world workflows.
 
-### Backend
-
-`Python` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `Kafka`
-
-### Infrastructure
-
-`Docker` `Kubernetes` `AWS` `GCP` `Cloud Infrastructure` `Event-Driven Systems`
-
-### Frontend
-
-`Next.js` `React` `TypeScript`
-
----
-
-## How I Think About AI Systems
-
-I don't think of an AI agent as a chatbot with tools attached.
-
-A useful agent is a **distributed software system with intelligence inside the control loop**.
-
-The interesting engineering problems are therefore not only:
-
-> How capable is the model?
-
-but also:
-
-> How does the system maintain context?
-
-> How does it decide what to do?
-
-> How does it recover from failure?
-
-> How do we control what it is allowed to do?
-
-> How do multiple agents coordinate?
-
-> How do we evaluate whether it actually completed the task?
-
-> How do we operate all of this reliably at scale?
-
-That's where most of my engineering interest lies.
+<sub>
+<code>Agent Orchestration</code> &nbsp;
+<code>Enterprise AI</code> &nbsp;
+<code>AI Infrastructure</code> &nbsp;
+<code>Tool Use</code> &nbsp;
+<code>Knowledge Systems</code> &nbsp;
+<code>Agent Security</code>
+</sub>
 
 ---
 
-## Research Interests
+### §4 &nbsp; Methods & Tooling
 
-`Agentic AI`
-`LLM Reasoning`
-`Multi-Agent Systems`
-`AI Memory`
-`RAG`
-`LLM Inference`
-`Distributed AI Systems`
-`AI Security`
-`AI Infrastructure`
+| Domain | Tools |
+|:--|:--|
+| **AI / ML** | PyTorch · Transformers · LLMs · RAG · Vector Search · Agent Systems · LLM Inference |
+| **Backend** | Python · TypeScript · FastAPI · PostgreSQL · Redis · Kafka |
+| **Infrastructure** | Docker · Kubernetes · AWS · GCP · Event-Driven Systems |
+| **Frontend** | Next.js · React · TypeScript |
 
 ---
 
-## Education
+### §5 &nbsp; Keywords
 
-**B.E. Computer Science Engineering, AI/ML**
-
-Visvesvaraya Technological University
-2023 – 2027
-
----
-
-## Connect
-
-**Website**
-[Hexel Studio](https://hexelstudio.com)
-
-**LinkedIn**
-[linkedin.com/in/khushwant-sanwalot](https://www.linkedin.com/in/khushwant-sanwalot/)
-
-**X**
-[x.com/ksanwalot04](https://x.com/ksanwalot04)
-
-**GitHub Organization**
-[github.com/hexelstudio](https://github.com/hexelstudio)
-
-**Email**
-[khushwantsanwalot2004@outlook.com](mailto:khushwantsanwalot2004@outlook.com)
+<sub>
+Agentic AI &nbsp;·&nbsp; LLM Reasoning &nbsp;·&nbsp; Multi-Agent Systems &nbsp;·&nbsp;
+AI Memory &nbsp;·&nbsp; Retrieval-Augmented Generation &nbsp;·&nbsp; LLM Inference &nbsp;·&nbsp;
+Distributed AI Systems &nbsp;·&nbsp; AI Security &nbsp;·&nbsp; AI Infrastructure
+</sub>
 
 ---
 
-### Building toward reliable machine intelligence.
+### §6 &nbsp; Education
 
-[Hexel Studio](https://hexelstudio.com)
+**B.E. Computer Science & Engineering (AI/ML)**
+Visvesvaraya Technological University &nbsp;·&nbsp; <sub>2023 – 2027</sub>
+
+---
+
+### Citation
+
+If something here was useful, the best way to cite it is to reach out.
+
+```bibtex
+@misc{sanwalot2026,
+  author       = {Khushwant Sanwalot},
+  title        = {Agentic Systems and Reliable AI Infrastructure},
+  organization = {Hexel Studio},
+  year         = {2026},
+  url          = {https://hexelstudio.com}
+}
+```
+
+<br>
+
+<div align="center">
+
+<i>Building toward reliable machine intelligence.</i>
+
+<sub>[hexelstudio.com](https://hexelstudio.com)</sub>
+
+</div>
