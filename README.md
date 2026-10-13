@@ -57,6 +57,20 @@ The stack I design and build across:
 
 ---
 
+## Projects
+
+| Project | What it is |
+| :--- | :--- |
+| [**fabric**](https://github.com/khushwant04/fabric) | Managed LLM inference platform: OpenAI-compatible API, strict control-plane/data-plane split, tenant isolation, usage metering, Helm-installed inference stamps |
+| [**infertune**](https://github.com/khushwant04/infertune) | GPU memory and concurrency planner for LLM serving: KV-cache/VRAM ledger, roofline model, vLLM and SGLang adapters, no GPU needed |
+| [**dde**](https://github.com/khushwant04/dde) | Document data extractor: invoices and receipts to schema-valid JSON, with LLM extraction and deterministic Python validation |
+| [**facetrace**](https://github.com/khushwant04/facetrace) | Multi-tenant face recognition API (FastAPI, AWS Rekognition, Auth0, Postgres) |
+| [**ncfrec**](https://github.com/khushwant04/ncfrec) | Neural Collaborative Filtering (NeuMF) recommender on MovieLens, with a tested inference package |
+| [**k8s**](https://github.com/khushwant04/k8s) | kubeadm scripts and runbooks for single-node Kubernetes on x86_64 and ARM64 (Calico, MetalLB, ingress) |
+| [**latent-attention**](https://github.com/khushwant04/latent-attention) · [**gpt-2**](https://github.com/khushwant04/gpt-2) · [**mixture-of-experts**](https://github.com/khushwant04/mixture-of-experts) | From-scratch model internals in PyTorch and Triton |
+
+---
+
 ## Problems I Care About
 
 1. Keeping context correct and compact over long-running tasks
