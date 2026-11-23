@@ -88,3 +88,5 @@ Visvesvaraya Technological University · 2023 – 2027
 ---
 
 *Engineering reliable machine intelligence, one system at a time.*
+
+Governed by Titan
