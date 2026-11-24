@@ -4,7 +4,7 @@
 
 I build production infrastructure for agentic AI: systems that reason, call tools, coordinate, and execute reliably.
 
-[LinkedIn](https://www.linkedin.com/in/khushwant-sanwalot/) · [X](https://x.com/ksanwalot04) · [Email](mailto:khushwantsanwalot2004@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushwant-sanwalot/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ksanwalot04) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushwantsanwalot2004@outlook.com)
 
 ---
 
